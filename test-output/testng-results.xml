@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-24T23:08:16 EET" name="Default suite" finished-at="2023-02-24T23:08:50 EET" duration-ms="34287">
+    <groups>
+    </groups>
+    <test started-at="2023-02-24T23:08:16 EET" name="Default test" finished-at="2023-02-24T23:08:50 EET" duration-ms="34287">
+      <class name="DemoBlazeTests.QPros.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DemoBlazeTests.QPros.AppTest@3514a4c0]" started-at="2023-02-24T23:08:16 EET" name="setUp" finished-at="2023-02-24T23:08:18 EET" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerAndLogin()[pri:1, instance:DemoBlazeTests.QPros.AppTest@3514a4c0]" started-at="2023-02-24T23:08:18 EET" name="registerAndLogin" finished-at="2023-02-24T23:08:34 EET" duration-ms="15919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAndLogin -->
+        <test-method signature="testCheckCategoryItems()[pri:2, instance:DemoBlazeTests.QPros.AppTest@3514a4c0]" started-at="2023-02-24T23:08:34 EET" name="testCheckCategoryItems" finished-at="2023-02-24T23:08:34 EET" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckCategoryItems -->
+        <test-method signature="addRandomItemToCart()[pri:3, instance:DemoBlazeTests.QPros.AppTest@3514a4c0]" started-at="2023-02-24T23:08:34 EET" name="addRandomItemToCart" finished-at="2023-02-24T23:08:40 EET" duration-ms="6470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRandomItemToCart -->
+        <test-method signature="RemoveItemFromCart()[pri:4, instance:DemoBlazeTests.QPros.AppTest@3514a4c0]" started-at="2023-02-24T23:08:40 EET" name="RemoveItemFromCart" finished-at="2023-02-24T23:08:44 EET" duration-ms="3244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveItemFromCart -->
+        <test-method signature="PlceOrder()[pri:5, instance:DemoBlazeTests.QPros.AppTest@3514a4c0]" started-at="2023-02-24T23:08:44 EET" name="PlceOrder" finished-at="2023-02-24T23:08:50 EET" duration-ms="5828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlceOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DemoBlazeTests.QPros.AppTest@3514a4c0]" started-at="2023-02-24T23:08:50 EET" name="tearDown" finished-at="2023-02-24T23:08:50 EET" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DemoBlazeTests.QPros.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
